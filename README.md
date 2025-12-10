@@ -1,62 +1,39 @@
-# AI-nasal-drug-delivery
-# AI-Assisted Nasal Drug Delivery Optimization
+# AI-Assisted Nasal Drug Delivery 
 
-This project demonstrates how AI can support product decision-making in regulated healthcare environments.  
-It combines experimental formulation data with AI-assisted reasoning and lightweight predictive modeling to guide formulation selection for nose-to-brain drug delivery.
-
----
-
-## 🔍 Problem
-Oral antiretroviral therapies show limited CNS penetration due to the blood–brain barrier, leading to persistent HIV reservoirs in the brain.  
-This project explores a non-invasive nasal in-situ gel delivery system supported by AI-driven formulation evaluation.
+## Live Demo (Claude AI)
+👉 https://claude.ai/public/artifacts/fb9b3ba8-a8ec-4c4d-ae61-3c256e22e329
 
 ---
 
-## 🤖 AI Product Prototype
-👉 **Interactive AI Artifact (Claude):**  
-🔗 https://claude.ai/public/artifacts/fb9b3ba8-a8ec-4c4d-ae61-3c256e22e329  
-
-The artifact evaluates formulation trade-offs, ranks candidates, and recommends an optimized formulation under safety and performance constraints.
-
----
-
-## 🧠 AI Logic
-- AI-assisted reasoning using Claude
-- Lightweight predictive model for drug-release estimation
-- Human-in-the-loop decision validation
+## What this is
+This project demonstrates how AI can support product decision-making in healthcare.
+It uses an AI assistant (Claude) to evaluate nasal drug formulations, explain trade-offs,
+and recommend an optimized formulation for nose-to-brain drug delivery.
 
 ---
 
-## 📊 Data
-Experimental formulation parameters:
-- Polymer ratios (Pluronic F127, HPMC E50LV)
-- Gelation temperature & time
-- Viscosity & pH
-- 12-hour drug release %
+## Problem
+Oral antiretroviral therapies struggle to cross the blood–brain barrier, leading to
+persistent HIV reservoirs in the brain. A non-invasive nasal delivery system can
+bypass this barrier and improve treatment outcomes.
 
 ---
 
-## 🧪 Results
-- Optimized formulation achieved >90% sustained release
-- Rapid gelation at physiological temperature
-- Nasal-compatible pH and safety profile
+## AI Product Thinking
+- AI-assisted evaluation of formulation trade-offs
+- Human-in-the-loop decision making
+- Safety and performance constraints
+- Metrics-driven optimization
 
 ---
 
-## 💼 Business Perspective
-- Target customers: Pharmaceutical companies, public health programs
-- Value: Faster R&D cycles, improved CNS delivery, better patient adherence
-- Monetization: B2B licensing & co-development
+## Why this matters
+- Improves patient adherence
+- Reduces R&D iteration time
+- Demonstrates AI as a decision-support tool, not a black box
 
 ---
 
-## 🚀 Next Steps
-- In-vivo validation
-- Expanded dataset & ML model
-- Personalized formulation optimization
-
----
-
-## 👤 Author
-**Your Name**  
-AI Product Manager | HealthTech
+## Author
+Your Name  
+AI Product Manager (HealthTech)
