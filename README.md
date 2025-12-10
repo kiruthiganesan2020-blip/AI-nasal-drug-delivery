@@ -35,5 +35,4 @@ bypass this barrier and improve treatment outcomes.
 ---
 
 ## Author
-Your Name  
-AI Product Manager (HealthTech)
+Kiruthika G
